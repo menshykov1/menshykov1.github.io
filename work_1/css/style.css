@@ -331,7 +331,7 @@ h2 {
 	width: 0;
 }
 .search_box:hover .search_txt {
-	width: 125px;
+	width: 75px;
 	padding: 0 5px;
 }
 .search_box:hover .search_btn {
@@ -343,7 +343,7 @@ h2 {
     left: 32px;
 }
 .search_box:hover {
-	left: 0px;
+	left: 20px;
 }
 
 .section_2 {
