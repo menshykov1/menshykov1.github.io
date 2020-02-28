@@ -751,6 +751,7 @@ footer p {
 	}
 	.form_contact {
 		margin: 0;
+		width: 100%;
 	}
 	.submit  {
 		margin: 0 auto;
