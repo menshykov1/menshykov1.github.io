@@ -298,7 +298,7 @@ h2 {
 	display: flex;
 	position: absolute;
 	top: 30px;
-	left: 66px;
+	left: 20px;
 	background-color: #8d8d8d;
 	height: 45px;
 	border-radius: 45px;
@@ -328,7 +328,7 @@ h2 {
 	font-size: 16px;
 	transition: .4s;
 	line-height: 40px;
-	width: 0;
+	width: 75px;
 }
 .search_box:hover .search_txt {
 	width: 75px;
