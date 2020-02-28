@@ -499,8 +499,13 @@ input,textarea {
 	font-style: italic;
 	font-size: 14px;
 }
-.form_name {
-	margin-right: 16px;
+.form_top {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
 }
 textarea {
 	padding-top: 20px;
@@ -750,9 +755,7 @@ footer p {
 	.submit  {
 		margin: 0 auto;
 	}
-	.form_name {
-		margin-right: 10px;
-	}
+	
 	.form_name, .form_email {
 		max-width: 175px;
 	}
