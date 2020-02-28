@@ -302,7 +302,7 @@ h2 {
 	background-color: #8d8d8d;
 	height: 45px;
 	border-radius: 45px;
-	/*padding: 10px;*/
+	
 }
 .search_btn {
 	display: -webkit-flex;
@@ -331,7 +331,7 @@ h2 {
 	width: 0;
 }
 .search_box:hover .search_txt {
-	width: 180px;
+	width: 125px;
 	padding: 0 5px;
 }
 .search_box:hover .search_btn {
@@ -343,11 +343,9 @@ h2 {
     left: 32px;
 }
 .search_box:hover {
-	left: -30px;
+	left: 0px;
 }
-.header_burger {
-	/*display: none;*/
-}
+
 .section_2 {
 	background-color: #16a086;
 	padding: 0 30px 75px;
