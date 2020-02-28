@@ -609,7 +609,7 @@ footer {
 	align-items: center;
 }
 footer p {
-	padding-left: 40px;
+	margin: 0 auto;
 	color: #fff;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
@@ -797,7 +797,7 @@ footer p {
 		}
 	}
 	.social_hover {
-		width: 340px;
+		width: 280px;
 	}
 	h2 {
 		padding-top: 10px;
